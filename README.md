@@ -2,7 +2,7 @@
 
 Brick breaker is a game where the player must break all of the bricks available in order to win. However, if the player didn't bounce the ball on time then he/she loses the game. This game receives 3 inputs from the user which are "Enter", left, and right keyboard key. The "Enter" key is pressed to start the game while the left/right keys are used to move the paddle.
 
-It was built with Java programming language. It is consisted of 3 classes which are Main, Gameplay,and Mapbrick. The main class is used for initializing the frame and launching the game, Gameplay is used to set the properties of the game (telling the game what to do), and the mapbrick class is used to set the level of the game. It implements the concept of 2D arrays and also utilizes methods. The 2D array here is used to map all of the bricks for the level for the game. 
+It was built with Java programming language. It is consisted of 3 classes which are Main, Gameplay,and mapbrick. The main class is used for initializing the frame and launching the game, Gameplay is used to set the properties of the game (telling the game what to do), and the mapbrick class is used to set the level of the game. It implements the concept of 2D arrays and also utilizes methods. The 2D array here is used to map all of the bricks for the level for the game. 
 
 Methods are used in Gameplay and mapbrick classes. 
 
