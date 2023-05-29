@@ -1,4 +1,4 @@
-# Brick-Breaker
+# Brick Breaker
 
 Brick breaker is a game where the player must break all of the bricks available in order to win. However, if the player didn't bounce the ball on time then he/she loses the game. This game receives 3 inputs from the user which are "Enter", left, and right keyboard key. The "Enter" key is pressed to start the game while the left/right keys are used to move the paddle.
 
